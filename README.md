@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
+  <!-- Welcome -->
+<h1  align="center">hi, i'm caro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
   <!-- Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full-Time+Student">
