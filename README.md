@@ -61,7 +61,6 @@ Here are some ideas to get you started:
           <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="75" alt="Git logo" />
           <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="55" alt="Github logo" />
           <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
         </td>
     </tr>
 </table>
