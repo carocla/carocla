@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 !  📚 studying neural networks
 +  👨‍💻 working on a personal project
 @@ 🔧 looking to solve real problems with (also real) code @@
+
 #  ⭐ if self.in_hole: self.stop_digging()
 ```
 
