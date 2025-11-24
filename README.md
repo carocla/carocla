@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <!-- Description -->
 ```diff
 🛠️ +4 years into my computer science degree
--  ⚡ fluent in 中文/mandarin
+-  ⚡ functionally fluent in 中文/mandarin
 !  📚 studying neural networks
 +  👨‍💻 working on a personal project
 @@ 🔧 looking to solve real problems with (also real) code @@
