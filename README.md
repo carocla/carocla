@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 #  👨‍💻 i care about crossdisciplinary work
 -  🚀 currently working on a personal project!
 !  ✨ If you can imagine it, you can program it. 
-@@ 💻solving real problems with (also real) code@@
+@@ 💻 solving real problems with (also real) code@@
 ```
 
   <!-- Skills and Tools-->
