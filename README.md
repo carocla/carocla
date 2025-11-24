@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4000&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&height=75lines=a+full-time+student;o__o">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robot&duration=4000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&multiline=true&width=500&height=75&lines=a+full-time+student;o___o" alt=">
 </p>
 
   <!-- Profile Picture -->
