@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
   <!-- Welcome -->
-<h1  align="center">hi, i'm caro<img src="https://media.giphy.com/media/O9nWm2uAHYz6M/giphy.gif" width="50"></h1>
+<h1  align="center">hi, i'm caro<img src="https://media.giphy.com/media/l378lOYrh2GwgdQJO/giphy.gif" width="50"></h1>
 
   <!-- Typing Text -->
 <p align="center">
