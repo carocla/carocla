@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
   <!-- Profile Picture -->
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+<img align="left" height="150" src="https://i.giphy.com/media/hrRvYhBjYcExaRdMuB/200.webp"/>
 
   <!-- Description -->
 ```diff
