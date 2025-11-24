@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full-Time+Student+:P">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full-Time+Student">
 </p>
 
   <!-- Profile Picture -->
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
           <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Tools gif">
         </td>
         <td>
-          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
+          <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="Visual Studio logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
           <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
