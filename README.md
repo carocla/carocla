@@ -43,7 +43,7 @@ Here are some ideas to get you started:
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-          <img src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="45" alt="Python" />
+          <img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp" width="45" alt="Python" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" alt="R" />
           <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
