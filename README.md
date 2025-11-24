@@ -70,9 +70,8 @@ Here are some ideas to get you started:
 <p align="right">
   <span>
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=carocla&style=for-the-badge" alt="Profile views" height="25" /></a>
-    <a href="mailto:karokat08@gmail.com?subject=Hello%20carocla" target="_blank">
+    <a href="mailto:karokat08@gmail.com" >
       <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
     <a href="https://www.linkedin.com/in/caro-claeson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
 </p>
-
