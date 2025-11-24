@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ```diff
 🛠️ +4 years into my computer science degree
 -  ✔️ fluent in 中文/mandarin chinese
-!  👨‍💻 studying convolutional neural networks
-+  🌱 working on a personal project
-@@ 💻 solving real problems with (also real) code@@
-#  ✨ If you can imagine it, you can program it. 
+!  📚 studying neural networks
++  👨‍💻 working on a personal project
+@@ 🔧 looking to solve real problems with (also real) code @@
+#  ⭐ If you can imagine it, you can program it. 
 ```
 
   <!-- Skills and Tools-->
