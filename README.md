@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
   <!-- Description -->
 ```diff
-🛠️ +4 years of CS study
-+  ✔️ Passionate about crossdisciplinary work.
-#  👨‍💻 Comp
+🛠️ +4 years into my Computer Science Degree
++  ✔️ Functionally fluent in Mandarin/中文
+#  👨‍💻 Passionate about crossdisciplinary work.
 -  🚀 Polishing a personal project!
 !  ✨ If you can imagine it, you can program it. 
 @@ 💻Solving real problems with (also real) code.@@
