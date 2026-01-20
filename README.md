@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -  ⚡ functionally fluent in 中文/mandarin
 !  📚 studying neural networks
 +  👨‍💻 interning @ KRDG law-- automating workflow, integrating AI
-<!-- @@ 🔧 looking to solve real problems with (also real) code @@ -->
+<!-- "@@ 🔧 looking to solve real problems with (also real) code @@" -->
 
 #  ⭐ if self.in_hole: self.stop_digging()
 ```
