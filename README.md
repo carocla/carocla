@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 🛠️ +4 years into my computer science degree
 -  ⚡ functionally fluent in 中文/mandarin
 !  📚 studying neural networks
-+  👨‍💻 working on a personal project
-@@ 🔧 looking to solve real problems with (also real) code @@
++  👨‍💻 interning @ KRDG law-- automating workflow, integrating AI
+## @@ 🔧 looking to solve real problems with (also real) code @@
 
 #  ⭐ if self.in_hole: self.stop_digging()
 ```
