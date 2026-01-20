@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 ```diff
 🛠️ +4 years into my computer science degree
 -  ⚡ functionally fluent in 中文/mandarin
-!  📚 studying neural networks
+!  📚 studying computational linguistics
 +  👨‍💻 interning @ KRDG law-- automating workflow, integrating AI
-<!-- "@@ 🔧 looking to solve real problems with (also real) code @@" -->
 
 #  ⭐ if self.in_hole: self.stop_digging()
 ```
