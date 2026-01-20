@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
   <!-- Welcome -->
 <h1  align="center">hi, i'm caro<img src="https://media.giphy.com/media/l378lOYrh2GwgdQJO/giphy.gif" width="50"></h1>
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 -  ⚡ functionally fluent in 中文/mandarin
 !  📚 studying neural networks
 +  👨‍💻 interning @ KRDG law-- automating workflow, integrating AI
-## @@ 🔧 looking to solve real problems with (also real) code @@
+<!-- @@ 🔧 looking to solve real problems with (also real) code @@ -->
 
 #  ⭐ if self.in_hole: self.stop_digging()
 ```
