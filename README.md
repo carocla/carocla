@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <!-- Description -->
 ```diff
 🛠️ +4 years into my computer science degree
--  ⚡ functionally fluent in 中文 (mandarin chinese)
+-  ⚡ functionally fluent in 中文
 !  📚 studying computational linguistics
 +  👨‍💻 interning @ KRDG law-- automation, AI
 
