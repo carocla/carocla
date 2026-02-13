@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ##
 <p align="right">
   <span>
-    <a target="_blank"><img src="https://komarev.com/ghpvc/?username=carocla&style=for-the-badge" alt="Profile views" height="45" /></a>
+    <a target="_blank"><img src="https://komarev.com/ghpvc/?username=carocla&style=for-the-badge" alt="Profile views" height="55" /></a>
     <a href="mailto:karokat08@gmail.com" >
       <img src="https://img.icons8.com/doodle/2x/gmail-new.png" alt="Gmail" height="25" /></a>
     <a href="https://www.linkedin.com/in/caro-claeson"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" height="35" /></a>
