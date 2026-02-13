@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 🛠️ +4 years into my computer science degree
 -  ⚡ functionally fluent in 中文/mandarin
 !  📚 studying computational linguistics
-+  👨‍💻 interning @ KRDG law-- automating workflow, integrating AI
++  👨‍💻 interning @ KRDG law-- automation, AI
 
 #  ⭐ if self.in_hole: self.stop_digging()
 ```
